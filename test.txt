@@ -1,2 +1,3 @@
 new text.txt again
 test line 1
+add new line 2
