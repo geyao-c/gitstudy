@@ -1,2 +1,3 @@
 win new flie
 win add new line
+win add new line 1
