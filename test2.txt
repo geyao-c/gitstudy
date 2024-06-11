@@ -7,3 +7,4 @@ branch new line 4
 branch1 new line 5
 branch new line 4
 branch1 new line 5
+branch1 rebase test commit at 9:51
