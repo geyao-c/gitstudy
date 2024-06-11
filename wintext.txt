@@ -3,3 +3,4 @@ win add new line
 win add new line 1
 master add new line 2
 branch1 add new line 2
+branch1 add new line 3
