@@ -6,3 +6,4 @@ add new line 4
 master add new line 5
 master add new line 6
 master add new line 7
+master rebase test add new line 8

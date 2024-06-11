@@ -2,3 +2,4 @@ test2 line 2
 test2 line 3
 master add new line 4
 master add new line 5
+master rebase test add new line 6
