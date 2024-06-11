@@ -2,3 +2,4 @@ win new flie
 win add new line
 win add new line 1
 master add new line 2
+master add new line 3
