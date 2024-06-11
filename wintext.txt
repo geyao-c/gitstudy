@@ -6,3 +6,5 @@ master add new line 3
 branch1 add new line 2
 branch1 add new line 2
 branch1 add new line 3
+branch1 add new line 2
+branch1 add new line 3
