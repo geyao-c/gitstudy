@@ -3,3 +3,5 @@ test2 line 3
 master add new line 4
 master add new line 5
 branch new line 4
+branch new line 4
+branch1 new line 5

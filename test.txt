@@ -10,3 +10,5 @@ master add new line5
 branch1 add new line 5
 branch1 add new line 5
 branch1 add new line 6
+branch1 add new line 6
+branch1 add new line 7
