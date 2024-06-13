@@ -4,3 +4,4 @@ master add new line 4
 master add new line 5
 master rebase test add new line 6
 master rebaset test add new line 6 6
+master git push --force test add new line 7
