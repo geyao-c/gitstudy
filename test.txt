@@ -19,3 +19,5 @@ branch1 add new line 7
 branch1 test rebase new line 8
 branch1 git diff check new lint 9
 branch add new line 10
+add new line branch1
+add new line 10 branch1
